@@ -2677,7 +2677,7 @@
 
   <Group>
     <GroupName>bsp/drivers/ESWIN_SYNC_MODEM</GroupName>
-    <tvExp>1</tvExp>
+    <tvExp>0</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
@@ -2697,7 +2697,7 @@
 
   <Group>
     <GroupName>bsp/drivers/cat_ec800g</GroupName>
-    <tvExp>1</tvExp>
+    <tvExp>0</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
@@ -2717,7 +2717,7 @@
 
   <Group>
     <GroupName>bsp/drivers/cat1_n706</GroupName>
-    <tvExp>1</tvExp>
+    <tvExp>0</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
@@ -2749,7 +2749,7 @@
 
   <Group>
     <GroupName>bsp/drivers/cat_mc661</GroupName>
-    <tvExp>1</tvExp>
+    <tvExp>0</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
